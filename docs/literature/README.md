@@ -38,7 +38,7 @@ are omitted from the bibliography.
 TW3715TU and TW3725TU. The project concerns a divergence-free extension of the
 generalized/weighted shifted boundary method for moving-boundary Stokes flow.
 The listed supervisors are Oriol Colomés and Shreyas Prashanth; the document does
-not explicitly identify its authors. Read the [project brief PDF](<CSE Minor 2026 - Project 10 - Stokes Flow - Colomes - Prashanth (1).pdf>).
+not explicitly identify its authors. Read the [project brief PDF](<CSE Minor 2026 - Project 10 - Stokes Flow - Colomes - Prashanth.pdf>).
 Its inclusion does not change its copyright or apply a repository license to it.
 
 ## Local PDFs
