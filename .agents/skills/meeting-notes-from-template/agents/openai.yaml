@@ -1,0 +1,3 @@
+interface:
+  display_name: "Meeting Notes From Template"
+  short_description: "Turn raw notes into template-based meeting minutes"
