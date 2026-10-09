@@ -30,4 +30,4 @@ JuliaLocalPreferences.toml
 # Local third-party reading material; commit citations and our own notes instead.
 /docs/literature/local/
 /docs/literature/*.pdf
-!/docs/literature/CSE Minor 2026 - Project 10 - Stokes Flow - Colomes - Prashanth (1).pdf
+!/docs/literature/CSE Minor 2026 - Project 10 - Stokes Flow - Colomes - Prashanth.pdf
