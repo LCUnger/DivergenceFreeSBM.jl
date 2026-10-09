@@ -2,7 +2,8 @@
 
 This directory contains citations and reading guidance for the divergence-free
 shifted boundary method project. BibTeX entries are in [references.bib](references.bib).
-Third-party PDFs are kept locally and are not distributed with the repository.
+Research papers and textbooks are kept locally. The project brief PDF is included
+in the repository as an explicit exception.
 
 ## Core papers
 
@@ -37,9 +38,8 @@ are omitted from the bibliography.
 TW3715TU and TW3725TU. The project concerns a divergence-free extension of the
 generalized/weighted shifted boundary method for moving-boundary Stokes flow.
 The listed supervisors are Oriol Colomés and Shreyas Prashanth; the document does
-not explicitly identify its authors. Obtain the brief through the course or
-supervisors. Keep the PDF local unless permission for public distribution is
-confirmed.
+not explicitly identify its authors. Read the [project brief PDF](<CSE Minor 2026 - Project 10 - Stokes Flow - Colomes - Prashanth (1).pdf>).
+Its inclusion does not change its copyright or apply a repository license to it.
 
 ## Local PDFs
 
@@ -57,7 +57,8 @@ The current local filenames are:
 | FEM lectures | `NA8.pdf`, `NA9.pdf`, `NA10.pdf` |
 | Project brief | `CSE Minor 2026 - Project 10 - Stokes Flow - Colomes - Prashanth (1).pdf` |
 
-PDFs placed directly in `docs/literature/` are also ignored as a precaution.
+PDFs placed directly in `docs/literature/` are also ignored as a precaution,
+except for the explicitly included project brief.
 Links point to publisher records, a library catalogue, or an author preprint;
 access to full text may require a university account.
 
